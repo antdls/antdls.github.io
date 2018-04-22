@@ -1,17 +1,7 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-    description: "Get started with the theme"
-  - title: "Posts"
-    url: /year-archive/
-    description: "Archive of all the posts"
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "CV"
+    url: /CV/
+    description: "Check out and download my CV"
+  - title: "Portfolio"
+    url: /portfolio/
+    description: "My works"
