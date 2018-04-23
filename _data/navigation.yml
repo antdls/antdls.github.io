@@ -2,6 +2,12 @@ main:
   - title: "CV"
     url: /CV/
     description: "Check out and download my CV"
-  - title: "Portfolio"
+  - title: "Games"
     url: /portfolio/
-    description: "My works"
+    description: "Games I worked on"
+  - title: "Graphic design"
+    url: /portfolio/
+    description: "Everything from print to UI"
+  - title: "Interactive design"
+    url: /portfolio/
+    description: "Installations and websites"
