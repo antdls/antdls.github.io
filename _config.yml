@@ -52,10 +52,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
   games:
     output: true
-    permalink: /:games/:path/
+    permalink: /:collection/:path/
 
 
 defaults:

@@ -3,7 +3,7 @@ main:
     url: /CV/
     description: "Check out and download my CV"
   - title: "Games"
-    url: /portfolio/
+    url: /games/
     description: "Games I worked on"
   - title: "Graphic design"
     url: /portfolio/
