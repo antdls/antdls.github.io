@@ -53,6 +53,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  games:
+    output: true
+    permalink: /:games/:path/
+
 
 defaults:
   # _pages
