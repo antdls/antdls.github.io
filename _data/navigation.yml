@@ -6,8 +6,8 @@ main:
     url: /games/
     description: "Games I worked on"
   - title: "Graphic design"
-    url: /portfolio/
+    url: /graphicdesign/
     description: "Everything from print to UI"
   - title: "Interactive design"
-    url: /portfolio/
+    url: /interactivedesign/
     description: "Installations and websites"
