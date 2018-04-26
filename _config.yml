@@ -55,7 +55,12 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
-
+  graphic:
+    output: true
+    permalink: /:collection/:path/
+  interactive:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
