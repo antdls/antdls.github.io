@@ -8,6 +8,6 @@ main:
   - title: "Interactive design"
     url: /interactivedesign/
     description: "Installations and websites"
-- title: "Graphic design"
+  - title: "Graphic design"
     url: /graphicdesign/
     description: "Everything from print to UI"
