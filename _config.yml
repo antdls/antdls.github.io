@@ -84,3 +84,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+# Site Author
+author:
+  name             : "Antoine Dieulesaint"
+  avatar           : "/assets/images/michael-rose.jpg"
+  bio              : "Just another boring, tattooed, time traveling, designer."
+  location         : "Paris, France"
+  email            : "a.dieulesaint@gmail.com"
+  linkedin         :
