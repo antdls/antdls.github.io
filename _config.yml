@@ -70,6 +70,27 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _interactive
+  - scope:
+      path: ""
+      type: interactive
+    values:
+      layout: single
+      author_profile: false
+  # _graphic
+  - scope:
+      path: ""
+      type: graphic
+    values:
+      layout: single
+      author_profile: false
+  # _games
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: single
+      author_profile: false
 
 # Site Author
 author:
