@@ -95,7 +95,7 @@ defaults:
 # Site Author
 author:
   name             : "Antoine Dieulesaint"
-  avatar           : "/assets/images/adls.jpg"
+  avatar           : "/assets/images/adls1.jpg"
   bio              : "Gameplay programmer, game designer and writer. In love with systemic games."
   location         : "Paris, France"
   email            : "a.dieulesaint@gmail.com"
