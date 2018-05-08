@@ -95,8 +95,8 @@ defaults:
 # Site Author
 author:
   name             : "Antoine Dieulesaint"
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  avatar           : "/assets/images/adls.jpg"
+  bio              : "Gameplay programmer, game designer and writer. In love with systemic games."
   location         : "Paris, France"
   email            : "a.dieulesaint@gmail.com"
   linkedin         :
