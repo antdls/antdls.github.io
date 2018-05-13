@@ -1,7 +1,7 @@
 main:
   - title: "CV"
     url: /CV/
-    description: "Check out and download my CV"
+    description: "More about me and downloadable CV"
   - title: "Games"
     url: /games/
     description: "Games I worked on"
