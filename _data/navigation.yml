@@ -1,13 +1,13 @@
 main:
-  - title: "CV"
-    url: /CV/
-    description: "More about me and downloadable CV"
-  - title: "Games"
-    url: /games/
-    description: "Games I worked on"
-  - title: "Interactive design"
-    url: /interactivedesign/
-    description: "Installations and websites"
-  - title: "Graphic design"
-    url: /graphicdesign/
-    description: "Everything from print to UI"
+#  - title: "CV"
+#     url: /CV/
+#     description: "More about me and downloadable CV"
+#   - title: "Games"
+#     url: /games/
+#     description: "Games I worked on"
+#   - title: "Interactive design"
+#     url: /interactivedesign/
+#     description: "Installations and websites"
+#   - title: "Graphic design"
+#     url: /graphicdesign/
+#     description: "Everything from print to UI"
