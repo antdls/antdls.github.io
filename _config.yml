@@ -30,7 +30,7 @@ markdown: kramdown
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # plugins:
 #   - jekyll-feed
@@ -98,7 +98,7 @@ defaults:
 author:
   name             : "Antoine Dieulesaint"
   avatar           : "/assets/images/adls2.jpg"
-  bio              : "Gameplay programmer, game designer and writer. In love with systemic games."
+  bio              : "Game designer, programmer and writer, with a background in interactive design. I love systemic games and telling a story through gameplay mechanics."
   location         : "Paris, France"
   email            : "a.dieulesaint@gmail.com"
   linkedin         :
