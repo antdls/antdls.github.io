@@ -104,8 +104,8 @@ defaults:
 # Site Author
 author:
   name             : "Antoine Dieulesaint"
-  avatar           : "/assets/images/adls2.jpg"
-  bio              : "Game designer, writer and programmer, with a background in interactive and graphic design. I love narrative and systemic games, telling stories through gameplay mechanics."
+  avatar           : "/assets/images/adls3.jpg"
+  bio              : "Game creator, with a background in interactive and graphic design. I love narrative and systemic games, telling stories through gameplay mechanics."
   location         : "Paris, France"
   email            : "a.dieulesaint@gmail.com"
   linkedin         :
