@@ -6,13 +6,20 @@ header:
   teaser: assets/images/Visualiser/header-th.jpg
 sidebar:
   - title: "Client"
-    text: "Research team from the INCC at the Paris Descartes university"
+    text: "INCC Lab, Paris Descartes university, CNRS"
   - title: "Status"
-    text: "Working Beta version"
+    text: "Working Beta version, awaiting publication"
 
 ---
-TopographX is a software for iEEG data visualization. It can process and display formatted data extracted from electrodes located in patients' brains and create a 3D representation of it. 
+
+Scientists using sEEG (intracranial electroencephalography) to study cognitive processes encounter several problems when creating figures for their publications. One is the creation of images, since there isn't much software dedicated to making them and it is hard to use, and another is the size of these images, as they usually need to show large amounts of data, over some period of time.
 <br><br>
-It can also create files that can be read by a web player, in order to share results and act as figures in research papers and theses. An example of it can be found <a href="https://daphnerr.github.io/statchansActive50ms/index.html">HERE</a>
+To answer these problems we decided, in partnership with PhD students at the Integrative Neuroscience & Cognition Center, to create TopographX. The intial goals of this software were to display the position of electrodes in a 3D brain mesh, link their color to data specified by the user and display these values over time.
+<br><br>
+<img src="/assets/images/Visualiser/workflowTX.png" alt="Basic worflow for TopographX">
+<br><br>
+The basic workflow consists of loading data, either new sets or a save file, optionnally apply operations to these (for instance to display the mean values of datasets from several subjects) or change the displayed colors, and then being able to cycle through the data and move the brain mesh. This workflow is almost complete, the image/video capture is not finished yet.
+<br><br>
+TopographX can also create files that can be read by a web player, in order to share results and act as figures in research publications. An example of it can be found <a href="https://daphnerr.github.io/statchansActive50ms/index.html">HERE</a>
 <br><br>
 More info and downloads available here : <a href="https://github.com/DaphneRR/TopographX">Github page</a>.
