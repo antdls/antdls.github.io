@@ -1,6 +1,6 @@
 ---
 title: "Percephone Sync"
-excerpt: "An attempt at making a centralised synchonisation system for DJs/VJs."
+excerpt: "An attempt at making a centralised synchronisation system for DJs/VJs."
 header:
 #  image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/Percephone/header-th.jpg
@@ -13,13 +13,16 @@ gallery:
     alt: "Second half"
 ---
 
-End-of-studies research project at my engineering school, the goal being to synchronise as much audio/video/data streams as possible. What we actually tried to do 
-was to create a software and hardware system to synchonise data coming from Traktor turntables, video played by VJing software and sequences of scene lights animation.
+End-of-studies research project at my engineering school. Our goal was to synchronise audio (from a DJ setup), video (from VJing softwares) and light control data (for 
+scene lights), in order to be able to control everything from one computer and create precisely timed shows for events. We ended up creating both a software and a hardware 
+interface to synchronise Traktor turntables, Resolume (a VJing software), and a custom app programmed in Max/MSP to control 
+lights.
 <br><br>
-We didn't manage to make everything work together, but we did create :<br>
-- a system to control scene lights with just a computer, which we improved and later used on the 
+While we didn't manage to make everything work together before our deadline, we did create :<br>
+- a system to control scene lights with just a computer, using a Max/MSP app and a homemade Art-Net hardware interface, which we improved and later used on the 
 <a href="https://antdls.github.io/interactive/2Gedeon/">Gedeon</a> project;<br>
-- a link to control a video playback with Tratkor turntables, which gave a DJ the ability to do some scratching on the music and on the video at 
-the same time.
+- a software interface to control a video playback with Tratkor turntables : we live-extracted the master tempo from the turntables and fed it as an input in Resolume to 
+controle the software's time. It means turning a turntable forward made the videos play, and turning it backward made the videos rewind, giving a DJ the ability to 
+"scratch" the record and the video at the same time.
 
 {% include gallery %}
